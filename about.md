@@ -1,5 +1,4 @@
 ---
-layout: default
 title: About
 ---
 
@@ -7,3 +6,6 @@ title: About
 
 It tells things about me.
 
+
+
+833.333333
